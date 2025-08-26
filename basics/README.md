@@ -1,1 +1,11 @@
-$ clisp hello.lisp or sbcl --script hello.lisp
+to run 
+
+```bash
+clisp hello.lisp
+```
+
+or
+
+```bash
+sbcl --script hello.lisp
+```
